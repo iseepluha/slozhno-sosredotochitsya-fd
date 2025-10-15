@@ -146,11 +146,8 @@
   line-height: var(--primary-line-height);
 }
 
-.tip-title {
-  margin-block-end: var(--margin-card-title);
-  color: var(--card-title-text-color);
+.card__title-thin {
   font-weight: var(--main-font-weight);
-  line-height: var(--primary-line-height);
 }
 
 .tips .card__title {
