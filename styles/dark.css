@@ -7,7 +7,10 @@
   --nav-color: #ff0070;
   --nav-color-hover-outline-color: #ff007040;
   --large-title-color: #DB00FF;
+  --large-title-text-shadow-color: #ff0070;
+  --large-footer-title-text-shadow-color: #ff0070;
   --card-title-text-color: #000028;
+  
 }
 
 .theme-dark .rec-icon {

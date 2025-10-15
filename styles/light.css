@@ -31,6 +31,8 @@
     --large-title-color: #ffc2e6;
     --titles-color: #353430;
     --card-title-text-color: #353430;
+    --large-title-text-shadow-color: #ff8dcb;
+    --large-footer-title-text-shadow-color: #ff0070;
   }
 
   .rec-icon {
