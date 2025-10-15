@@ -19,4 +19,6 @@
   --primary-line-height: 130%;
   --margin-card-title: 10px;
   --margin-section-title: 20px;
+  --mobile-padding: 10px;
+  --tablet-desktop-padding: 20px;
 }
