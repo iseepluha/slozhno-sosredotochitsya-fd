@@ -100,7 +100,7 @@
 }
 
 .header-title {
-  text-shadow: 4px 4px var(--accent-color);
+  text-shadow: 4px 4px var(--large-title-text-shadow-color);
 }
 
 .header-description {
@@ -198,7 +198,7 @@
 }
 
 .footer-title {
-  text-shadow: 2px 2px var(--accent-color);
+  text-shadow: 2px 2px var(--large-footer-title-text-shadow-color);
 }
 
 @media (width >=768px) {
